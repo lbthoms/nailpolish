@@ -1,0 +1,17 @@
+ 2022-12-12 22:12:41,530 -  CRITICAL-  Missing functions.py!
+ 2022-12-12 22:13:18,375 -  CRITICAL-  Missing functions.py!
+ 2022-12-12 22:20:15,771 -  CRITICAL-  Missing functions.py!
+ 2022-12-12 22:22:12,920 -  CRITICAL-  Missing functions.py!
+ 2022-12-12 22:23:34,362 -  CRITICAL-  Missing polish.py!
+ 2022-12-12 22:23:34,377 -  CRITICAL-  Missing functions.py!
+ 2022-12-12 22:23:58,841 -  CRITICAL-  Missing polish.py!
+ 2022-12-12 22:23:58,854 -  CRITICAL-  Missing functions.py!
+ 2022-12-12 22:24:19,333 -  CRITICAL-  Missing functions.py!
+ 2022-12-12 22:24:19,348 -  CRITICAL-  Missing functions.py!
+ 2022-12-12 22:27:02,563 -  CRITICAL-  Missing functions.py!
+ 2022-12-12 22:27:30,238 -  CRITICAL-  Missing functions.py!
+ 2022-12-12 22:38:05,757 -  CRITICAL-  Missing functions.py!
+ 2022-12-13 09:59:52,796 -  CRITICAL-  Missing functions.py!
+ 2022-12-13 21:51:59,057 -  CRITICAL-  Missing functions.py!
+ 2022-12-13 22:38:15,446 -  INFO-  333
+ 2022-12-13 22:38:46,821 -  INFO-  298
